@@ -1,0 +1,6 @@
+{
+  "name": "LogSight AI",
+  "description": "AI-powered DevOps log monitoring and container observability dashboard prototype using simulated monitoring data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
